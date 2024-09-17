@@ -1,4 +1,4 @@
-# Differences-in-Semantic-Errors-Made-by-Different-Types-of-Data-to-text-Systems
+# Differences in Semantic Errors Made by Different Types of Data-to-text Systems
 
 - We release the annotations reported in our paper. Please find them in the folder titled `annotations`. There are 15 sub-folders in it and each folder contains:
   - `{file_name}.txt` contains the input to the evaluators, it contains the RDF triples and the verbalisation.
