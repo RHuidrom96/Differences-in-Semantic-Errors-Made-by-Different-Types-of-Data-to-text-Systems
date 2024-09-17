@@ -1,0 +1,4 @@
+T1	ADDITION 265 267	.0
+#1	AnnotatorNotes T1	Unnecessary.
+T2	OMISSION 261 265	1095
+#2	AnnotatorNotes T2	Unit missing (meters presumably).

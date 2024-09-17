@@ -1,0 +1,2 @@
+Triple(s): 'Aaron_Turner | associatedBand/associatedMusicalArtist | Twilight_(band)', 'Aaron_Turner | activeYearsStartYear | 1995'
+Verbalisation: Aaron Turner started performing in 1995 and played with the band Twilight.

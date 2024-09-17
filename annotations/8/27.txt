@@ -1,0 +1,2 @@
+Triple(s): 'Hypermarcas | keyPerson | CEO'
+Verbalisation: The CEO of Hypermarcas is a key person in the company.

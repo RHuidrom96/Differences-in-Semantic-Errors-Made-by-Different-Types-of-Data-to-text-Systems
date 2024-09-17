@@ -1,0 +1,2 @@
+Triple(s): 'Nord_(Year_of_No_Light_album) | genre | Post-metal', 'Nord_(Year_of_No_Light_album) | recordLabel | Crucial_Blast', 'Nord_(Year_of_No_Light_album) | releaseDate | 2006-09-06', 'Nord_(Year_of_No_Light_album) | recordLabel | E-Vinyl'
+Verbalisation: The record label of Nord (Year of No Light album) is Crucial Blast. It was released on 6th September 2006 and is a post-metal album. The record label of Nord is E-Vinyl.

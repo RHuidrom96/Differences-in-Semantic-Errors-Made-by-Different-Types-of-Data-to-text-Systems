@@ -1,0 +1,2 @@
+Triple(s): '1634:_The_Bavarian_Crisis | numberOfPages | "448"', '1634:_The_Bavarian_Crisis | author | Eric_Flint'
+Verbalisation: 1634: The Bavarian Crisis, which Eric Flint wrote, has 448 pages.

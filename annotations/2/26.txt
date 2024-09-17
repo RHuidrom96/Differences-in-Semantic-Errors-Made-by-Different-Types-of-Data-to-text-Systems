@@ -1,0 +1,2 @@
+Triple(s): 'Nord_(Year_of_No_Light_album) | releaseDate | 2006-09-06', 'Nord_(Year_of_No_Light_album) | genre | Sludge_metal', 'Nord_(Year_of_No_Light_album) | genre | Post-metal'
+Verbalisation: Nord (Year of No Light album), 2006 09 06, performs sludge metal and his genre is Post metal.

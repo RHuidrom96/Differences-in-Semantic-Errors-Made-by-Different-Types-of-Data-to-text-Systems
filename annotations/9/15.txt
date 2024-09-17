@@ -1,0 +1,2 @@
+Triple(s): 'Adolfo_Suárez_Madrid–Barajas_Airport | operatingOrganisation | ENAIRE', 'ENAIRE | city | Madrid', 'Adolfo_Suárez_Madrid–Barajas_Airport | runwayLength | 3500.0', 'Adolfo_Suárez_Madrid–Barajas_Airport | elevationAboveTheSeaLevel | 610.0'
+Verbalisation: Adolfo Suárez Madrid–Barajas Airport has a runway length of 3500 and is 610.0 metres above sea level. The airport is operated by ENAIRE which is located in the city of Madrid.

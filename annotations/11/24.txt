@@ -1,0 +1,2 @@
+Triple(s): 'Lady_Anne_Monson | deathDate | 1776-02-18', 'Lady_Anne_Monson | nationality | Kingdom_of_England', 'Lady_Anne_Monson | residence | India', 'Lady_Anne_Monson | spouse | George_Monson', 'Lady_Anne_Monson | professionalField | Botany'
+Verbalisation: George monson is the wife of Anne monson, who was a national of the Kingdom of England. Anne monson; was a resident of India and died on February 18th, 1776. lady is the country where Anne monson was a resident. Anne monson's occupation was a professional in the field of flowering plants.

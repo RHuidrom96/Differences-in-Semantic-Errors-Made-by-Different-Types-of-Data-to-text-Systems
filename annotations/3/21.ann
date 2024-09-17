@@ -1,0 +1,3 @@
+T1	OMISSION 77 94	Bedford_Aerodrome
+T2	OMISSION 250 252	it
+#1	AnnotatorNotes T2	this "it" is referring back to "ICAO location identifier", which is not the triple information.  

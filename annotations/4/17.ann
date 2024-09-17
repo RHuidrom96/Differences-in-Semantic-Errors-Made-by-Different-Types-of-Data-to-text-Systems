@@ -1,0 +1,4 @@
+T1	OMISSION 93 99	length
+#1	AnnotatorNotes T1	See note on addition
+T2	ADDITION 154 156	is
+#2	AnnotatorNotes T2	It is false to say that the "ALCO == 17068.8mm", this makes it sound like the thing "is mm".  I do not think "is" is specific enough to describe length on its own

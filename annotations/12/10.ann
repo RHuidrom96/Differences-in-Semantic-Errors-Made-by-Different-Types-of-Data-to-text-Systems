@@ -1,0 +1,5 @@
+T1	ADDITION 83 86	the
+T2	ADDITION 67 70	was
+#1	AnnotatorNotes T2	wrong tense, should be 'is'
+T3	OMISSION 22 30	isPartOf
+#2	AnnotatorNotes T3	the generated text uses the wrong tense

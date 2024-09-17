@@ -1,0 +1,2 @@
+Triple(s): 'Bedford_Aerodrome | operatingOrganisation | MotorSport_Vision', 'Bedford_Aerodrome | runwayLength | 1095.0', 'Bedford_Aerodrome | cityServed | Bedford_Autodrome', 'Bedford_Aerodrome | location | Thurleigh', 'Bedford_Aerodrome | elevationAboveTheSeaLevel | 83.2104'
+Verbalisation: Bedford Aerodrome, which is operated by MotorSport Vision, has a runway length of 1095.0 meters and serves the city of Bedford Autodrome. It is located in Thurleigh and sits at an elevation of 83.2104 meters above sea level.

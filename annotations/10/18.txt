@@ -1,0 +1,2 @@
+Triple(s): 'Super_Capers | editing | Stacy_Katzman', 'Super_Capers | starring | Michael_Rooker', 'Super_Capers | starring | Tom_Sizemore', 'Super_Capers | language | English_language', 'Super_Capers | runtime | 98.0', 'Super_Capers | budget | 2000000.0', 'Super_Capers | writer | Ray_Griggs_(director)'
+Verbalisation: The English speaking film, Super Capers, was written by Ray Griggs and starred Michael Rooker and Tom Sizemore. It was edited by Stacy Katzman, has a run time of 98.0 and a budget of $2000000.0.

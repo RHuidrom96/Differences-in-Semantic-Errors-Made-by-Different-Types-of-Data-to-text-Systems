@@ -1,0 +1,12 @@
+T1	ADDITION 335 346	established
+#1	AnnotatorNotes T1	Edited, not established
+T2	OMISSION 27 34	editing
+T3	ADDITION 419 423	uses
+#2	AnnotatorNotes T3	Non-fluent use of this word.  Better: The film /is/ English-language
+T4	OMISSION 201 208	runtime
+T5	OMISSION 234 240	budget
+T6	ADDITION 442 457	98.0, 2000000.0
+#3	AnnotatorNotes T6	Semantically strange.  Numbers alone can't be ingredients.
+T7	ADDITION 484 508	as its main ingredients.
+#4	AnnotatorNotes T7	It's a film, not a dish.
+T8	OMISSION 271 277	writer

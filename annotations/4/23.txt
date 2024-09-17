@@ -1,0 +1,2 @@
+Triple(s): 'Ciudad_Ayala | isPartOf | Morelos'
+Verbalisation: Ciudad Ayala is part of the Morelos.

@@ -1,0 +1,2 @@
+Triple(s): 'Nord_(Year_of_No_Light_album) | genre | Sludge_metal', 'Nord_(Year_of_No_Light_album) | producer | Year_of_No_Light', 'Nord_(Year_of_No_Light_album) | genre | Post-metal', 'Nord_(Year_of_No_Light_album) | releaseDate | 2006-09-06', 'Nord_(Year_of_No_Light_album) | runtime | 58.41', 'Nord_(Year_of_No_Light_album) | precededBy | Demo_2004_(Year_of_No_Light_album)'
+Verbalisation: The year of No Light, which was produced by Year of No Light, was preceded by the Demo 2004. Its genre is post-metal and it has a runtime of 58.41. Its genre is Sludge metal.

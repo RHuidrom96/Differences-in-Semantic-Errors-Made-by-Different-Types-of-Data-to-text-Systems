@@ -1,0 +1,2 @@
+Triple(s): 'The_Fellowship_of_the_Ring | literaryGenre | Fantasy_(genre)', 'The_Fellowship_of_the_Ring | author | J._R._R._Tolkien', 'The_Fellowship_of_the_Ring | releaseDate | 1954-07-29', 'The_Fellowship_of_the_Ring | precededBy | The_Hobbit'
+Verbalisation: J.r. tolkien is the author of the novel The fellowship of the Ring which was published on July 29th, in Izmir. The book was preceded by The hobbit and is considered Fantasy.

@@ -1,0 +1,2 @@
+Triple(s): 'Abraham_A._Ribicoff | spouse | "Ruth Ribicoff"', 'Abraham_A._Ribicoff | inOfficeWhilePresident | John_F._Kennedy', 'Abraham_A._Ribicoff | nationality | American', 'Abraham_A._Ribicoff | deathPlace | United_States', 'Abraham_A._Ribicoff | birthPlace | Connecticut'
+Verbalisation: Abraham A. Ribicoff was an American who was born in Connecticut and married Ruth Ribicoff. He served in office while John F. Kennedy was president and died in the United States.

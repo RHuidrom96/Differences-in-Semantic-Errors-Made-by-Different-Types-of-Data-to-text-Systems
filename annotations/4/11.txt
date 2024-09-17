@@ -1,0 +1,2 @@
+Triple(s): 'Ciudad_Ayala | governmentType | Council-manager_government', 'Ciudad_Ayala | populationDensity | 1604.0', 'Ciudad_Ayala | leaderTitle | Governator'
+Verbalisation: Ciudad Ayala is a city with a council-manager form of government and a population density of 1604.0. The leader of the city is referred to as the Governator.

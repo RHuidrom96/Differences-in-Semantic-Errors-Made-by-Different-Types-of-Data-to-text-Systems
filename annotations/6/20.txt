@@ -1,0 +1,2 @@
+Triple(s): 'Mermaid_(Train_song) | genre | Pop_rock', 'Mermaid_(Train_song) | recordLabel | Columbia_Records', 'Mermaid_(Train_song) | runtime | 3.16', 'Mermaid_(Train_song) | recordLabel | Sony_Music_Entertainment'
+Verbalisation: Mermaid Train is a pop rock song that has a run time of 3.16 minutes and is recorded by Columbia Records and Sony Music Entertainment.

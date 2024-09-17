@@ -1,0 +1,5 @@
+T1	ADDITION 188 197	is a city
+#1	AnnotatorNotes T1	The input does not specify that it is a city and I feel like the population density is not high enough to def be a city
+T2	ADDITION 290 298	the city
+T3	OMISSION 119 131	Ciudad_Ayala
+#2	AnnotatorNotes T3	This is technically omitted because it is rendered as "the city", which it is not specified as being so the anaphora is incorrect.

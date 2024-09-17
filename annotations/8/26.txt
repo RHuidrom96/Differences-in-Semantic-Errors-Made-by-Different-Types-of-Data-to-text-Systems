@@ -1,0 +1,2 @@
+Triple(s): 'Nord_(Year_of_No_Light_album) | releaseDate | 2006-09-06', 'Nord_(Year_of_No_Light_album) | genre | Sludge_metal', 'Nord_(Year_of_No_Light_album) | genre | Post-metal'
+Verbalisation: Born on 6th September 2006 and performs post-metal music, Nord is a performer of Sludge metal.

@@ -1,0 +1,2 @@
+Triple(s): 'Super_Capers | editing | Stacy_Katzman', 'Super_Capers | starring | Michael_Rooker', 'Super_Capers | starring | Tom_Sizemore', 'Super_Capers | language | English_language', 'Super_Capers | runtime | 98.0', 'Super_Capers | budget | 2000000.0', 'Super_Capers | writer | Ray_Griggs_(director)'
+Verbalisation: Super Capers was established Stacy Katzman, and starred Michael Rooker, Jr. It starred Tom Sizemore, uses English language, 98.0, 2000000.0 and Ray Griggs (director) as its main ingredients.

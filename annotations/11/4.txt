@@ -1,0 +1,2 @@
+Triple(s): 'University_of_Burgundy | numberOfUndergraduateStudents | 16800', 'University_of_Burgundy | staff | 2900'
+Verbalisation: The University of Burgundy has a total of 16800 undergraduate students and a staff of 2900.

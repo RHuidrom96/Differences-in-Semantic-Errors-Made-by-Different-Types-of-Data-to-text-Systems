@@ -1,0 +1,12 @@
+T1	ADDITION 451 456	genre
+#1	AnnotatorNotes T1	word unnecessary here, seems clunky, the semantics of the sentence and the pragmatics of the paragraph make the previous terms obvious references to genre.
+T2	ADDITION 399 423	album "Year of No Light"
+#2	AnnotatorNotes T2	This is false information (addition).  The album is not titled "Year of No Light".
+T3	ADDITION 392 396	Nord
+#3	AnnotatorNotes T3	This is wrong.  The band's name is Year of No Light.  Nord is the album name.
+T4	REPETITION 608 628	by Year of No Light.
+#4	AnnotatorNotes T4	This is unnecessary, as the reader is already aware of the album creator.  The subsequent album is of course the same creator,
+T5	OMISSION 12 17	Nord_
+#5	AnnotatorNotes T5	Generated sentence got the album and artist mixed up.
+T6	OMISSION 18 40	Year_of_No_Light_album
+#6	AnnotatorNotes T6	Generated sentence got the album and artist mixed up.

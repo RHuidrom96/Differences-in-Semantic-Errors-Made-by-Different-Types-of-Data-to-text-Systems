@@ -1,0 +1,8 @@
+T1	REPETITION 341 344	she
+T2	ADDITION 276 303	lives in Kingdom of England
+T3	OMISSION 57 108	Lady_Anne_Monson | nationality | Kingdom_of_England
+T4	REPETITION 305 308	she
+T5	ADDITION 363 366	She
+#1	AnnotatorNotes T5	Should be 'Her'
+T6	OMISSION 400 406	passed
+#2	AnnotatorNotes T6	If the previous error (She instead of 'Her') is corrected, then another subject phrase is needed here, i.e. "Her"

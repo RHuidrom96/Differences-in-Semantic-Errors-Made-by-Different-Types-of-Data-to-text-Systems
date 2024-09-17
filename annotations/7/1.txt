@@ -1,0 +1,2 @@
+Triple(s): 'Aaron_Turner | associatedBand/associatedMusicalArtist | Twilight_(band)', 'Aaron_Turner | activeYearsStartYear | 1995'
+Verbalisation: Aaron Turner was associated with the band Twilight and was active in the music scene from 1995 onwards.

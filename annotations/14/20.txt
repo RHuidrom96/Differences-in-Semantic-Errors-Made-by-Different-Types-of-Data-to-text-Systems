@@ -1,0 +1,2 @@
+Triple(s): 'Mermaid_(Train_song) | genre | Pop_rock', 'Mermaid_(Train_song) | recordLabel | Columbia_Records', 'Mermaid_(Train_song) | runtime | 3.16', 'Mermaid_(Train_song) | recordLabel | Sony_Music_Entertainment'
+Verbalisation: The musical genre of Mermaid (Train) is pop rock and has a runtime of 3.16. It is signed to the record label Sony Music Entertainment and is signed to the record label of Columbia Records.

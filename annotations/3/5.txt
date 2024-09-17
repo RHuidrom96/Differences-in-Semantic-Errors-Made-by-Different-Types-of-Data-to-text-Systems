@@ -1,0 +1,2 @@
+Triple(s): '11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania', 'Adams_County,_Pennsylvania | hasToItsSouthwest | Frederick_County,_Maryland'
+Verbalisation: 11th Mississippi Infantry Monument is in Adams County, Pennsylvania. Frederick County, Maryland is located to the southwest there.

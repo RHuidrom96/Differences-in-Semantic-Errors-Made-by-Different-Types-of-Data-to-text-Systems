@@ -1,0 +1,2 @@
+Triple(s): 'ALCO_RS-3 | engine | V12_engine', 'ALCO_RS-3 | cylinderCount | 12', 'ALCO_RS-3 | length | 17068.8 (millimetres)'
+Verbalisation: The ALCO RS-3 locomotive is powered by a V12 engine with 12 cylinders and a length of 17068.8 millimetres.

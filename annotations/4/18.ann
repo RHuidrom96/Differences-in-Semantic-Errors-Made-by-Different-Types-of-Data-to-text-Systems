@@ -1,0 +1,8 @@
+T1	ADDITION 433 439	series
+#1	AnnotatorNotes T1	The input does not state that this is a series.
+T2	ADDITION 502 510	directed
+#2	AnnotatorNotes T2	Ray Griggs is known as a director, but the input does not state that he directed this piece.
+T3	REPETITION 514 524	Ray Griggs
+#3	AnnotatorNotes T3	Ray Griggs is only in the input once
+T4	REPETITION 495 497	It
+#4	AnnotatorNotes T4	There is nothing else left to say about Super_Capers, therefore this anaphora is redundant.

@@ -1,0 +1,11 @@
+T1	OMISSION 12 41	Nord_(Year_of_No_Light_album)
+T2	OMISSION 68 97	Nord_(Year_of_No_Light_album)
+T3	OMISSION 131 160	Nord_(Year_of_No_Light_album)
+T4	OMISSION 185 214	Nord_(Year_of_No_Light_album)
+T5	OMISSION 245 274	Nord_(Year_of_No_Light_album)
+T6	OMISSION 296 325	Nord_(Year_of_No_Light_album)
+T7	ADDITION 396 413	year of No Light,
+T8	REPETITION 131 182	Nord_(Year_of_No_Light_album) | genre | Post-metal'
+T9	REPETITION 12 65	Nord_(Year_of_No_Light_album) | genre | Sludge_metal'
+T10	REPETITION 485 508	Its genre is post-metal
+T11	REPETITION 540 566	Its genre is Sludge metal.

@@ -1,0 +1,10 @@
+T1	OMISSION 66 95	Nord_(Year_of_No_Light_album)
+#1	AnnotatorNotes T1	The bad is not stated as having a record label.
+T2	OMISSION 98 109	recordLabel
+#2	AnnotatorNotes T2	Not the same as what is in the text.
+T3	ADDITION 338 353	it was recorded
+#3	AnnotatorNotes T3	That the album was recorded by this record label is not explicitly stated.  All we know is that the band were at some point on this record label
+T4	OMISSION 221 232	recordLabel
+#4	AnnotatorNotes T4	See addition note
+T5	ADDITION 375 404	is signed to the record label
+#5	AnnotatorNotes T5	An album cannot sign anything.

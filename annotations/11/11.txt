@@ -1,0 +1,2 @@
+Triple(s): 'Ciudad_Ayala | governmentType | Council-manager_government', 'Ciudad_Ayala | populationDensity | 1604.0', 'Ciudad_Ayala | leaderTitle | Governator'
+Verbalisation: The city of ayala, with a population density of 1604.0, is governed by the council-manager government ciudad. The country is governed by a governator.

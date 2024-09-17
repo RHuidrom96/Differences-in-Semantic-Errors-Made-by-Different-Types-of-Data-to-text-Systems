@@ -1,0 +1,2 @@
+Triple(s): 'Alan_Shepard | deathPlace | California', 'Alan_Shepard | birthPlace | New_Hampshire', 'California | senators | Dianne_Feinstein'
+Verbalisation: Alan Shepard, born in New Hampshire, died in California. Dianne Feinstein is a senator from California.

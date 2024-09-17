@@ -1,0 +1,2 @@
+Triple(s): 'Nord_(Year_of_No_Light_album) | releaseDate | 2006-09-06', 'Nord_(Year_of_No_Light_album) | genre | Sludge_metal', 'Nord_(Year_of_No_Light_album) | genre | Post-metal'
+Verbalisation: The post-metal band Nord released the album "Year of No Light" on September 6th 2006. It is a form of sludge metal.

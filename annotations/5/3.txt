@@ -1,0 +1,2 @@
+Triple(s): 'Nurhan_Atasoy | residence | Istanbul', 'Nurhan_Atasoy | citizenship | Turkey', 'Nurhan_Atasoy | nationality | Turkish_people', 'Nurhan_Atasoy | residence | Turkey', 'Nurhan_Atasoy | award | State_Award_for_Superior_Achievement'
+Verbalisation: Nurhan Atasoy, who lives in Istanbul, Turkey, is a Turkish people national. He resides in Turkey and was awarded the State Award for Superior Achievement.

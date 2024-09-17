@@ -1,0 +1,2 @@
+Triple(s): 'Olga_Bondareva | deathPlace | Saint_Petersburg', 'Olga_Bondareva | birthPlace | Leningrad,_USSR'
+Verbalisation: "Olga Bondareva was born in Leningrad, USSR and died in Saint Petersburg."

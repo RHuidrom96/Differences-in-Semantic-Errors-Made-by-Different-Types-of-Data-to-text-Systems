@@ -1,0 +1,7 @@
+T1	ADDITION 361 368	Bedford
+#1	AnnotatorNotes T1	This sounds like an addition in the output since there is no element of Bedford in the triple that constitutes a location as it is being shown in the verbalisation
+T2	OMISSION 413 419	83.210
+#2	AnnotatorNotes T2	This is missing a 4 at the end
+T3	REPETITION 493 506	83.210 metres
+T4	REPETITION 507 522	above sea level
+#3	AnnotatorNotes T4	i am adding two repetitions here but it should be one. the platform is not allowing me to select everything as one repetition.

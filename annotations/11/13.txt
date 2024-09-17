@@ -1,0 +1,2 @@
+Triple(s): 'The_Fellowship_of_the_Ring | literaryGenre | Fantasy_(genre)', 'The_Fellowship_of_the_Ring | author | J._R._R._Tolkien', 'The_Fellowship_of_the_Ring | releaseDate | 1954-07-29', 'The_Fellowship_of_the_Ring | precededBy | The_Hobbit'
+Verbalisation: "The Hobbit preceded The Fellowship of the Ring which was written by J.R.R. Tolkien and published on the 29th of July, 1954. The genre of The Fellowship of the Ring is Fantasy."

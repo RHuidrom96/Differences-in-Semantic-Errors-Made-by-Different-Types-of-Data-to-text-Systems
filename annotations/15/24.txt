@@ -1,0 +1,2 @@
+Triple(s): 'Lady_Anne_Monson | deathDate | 1776-02-18', 'Lady_Anne_Monson | nationality | Kingdom_of_England', 'Lady_Anne_Monson | residence | India', 'Lady_Anne_Monson | spouse | George_Monson', 'Lady_Anne_Monson | professionalField | Botany'
+Verbalisation: Lady Anne Monson was the residence in India and had the nationality is Kingdom of England, spouse is George Monson, made a living as Botany and died in 02-18-1776.

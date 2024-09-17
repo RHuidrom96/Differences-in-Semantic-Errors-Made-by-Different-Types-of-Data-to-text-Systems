@@ -1,0 +1,2 @@
+Triple(s): 'Super_Capers | editing | Stacy_Katzman', 'Super_Capers | starring | Michael_Rooker', 'Super_Capers | starring | Tom_Sizemore', 'Super_Capers | language | English_language', 'Super_Capers | runtime | 98.0', 'Super_Capers | budget | 2000000.0', 'Super_Capers | writer | Ray_Griggs_(director)'
+Verbalisation: Super Capers is a film directed by Ray Griggs and starring Michael Rooker and Tom Sizemore. It was produced in 2000 with a budget of 2 million dollars and has a runtime of 98 minutes. The film was shot in English.

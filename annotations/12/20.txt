@@ -1,0 +1,2 @@
+Triple(s): 'Mermaid_(Train_song) | genre | Pop_rock', 'Mermaid_(Train_song) | recordLabel | Columbia_Records', 'Mermaid_(Train_song) | runtime | 3.16', 'Mermaid_(Train_song) | recordLabel | Sony_Music_Entertainment'
+Verbalisation: Mermaid is a train song which has a runtime of 3.16 and is signed to the record labels Sony Music Entertainment and Columbia Records. It is a pop rock song.

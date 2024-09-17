@@ -1,0 +1,2 @@
+Triple(s): 'The_Fellowship_of_the_Ring | literaryGenre | Fantasy_(genre)', 'The_Fellowship_of_the_Ring | author | J._R._R._Tolkien', 'The_Fellowship_of_the_Ring | releaseDate | 1954-07-29', 'The_Fellowship_of_the_Ring | precededBy | The_Hobbit'
+Verbalisation: The Fellowship of the Ring was written by J.R.R. Tolkien and is a fantasy novel. It was released on the 29th July 1954 and was preceded by The Hobbit.

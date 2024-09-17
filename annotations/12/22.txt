@@ -1,0 +1,2 @@
+Triple(s): 'Abraham_A._Ribicoff | spouse | "Ruth Ribicoff"', 'Abraham_A._Ribicoff | deathPlace | United_States', 'Abraham_A._Ribicoff | birthPlace | United_States', 'United_States | ethnicGroup | African_Americans'
+Verbalisation: Abraham A. Ribicoff was born and died in the United States. His spouse's name was Ruth Ribicoff, and he was an African American.

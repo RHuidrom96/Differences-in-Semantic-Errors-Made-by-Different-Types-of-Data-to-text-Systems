@@ -1,0 +1,4 @@
+T1	ADDITION 206 215	has gross
+#1	AnnotatorNotes T1	This makes no sense, it would have to be "grossed".  This is similar to the "discovered in" example in #19
+T2	OMISSION 111 116	gross
+#2	AnnotatorNotes T2	See addition note

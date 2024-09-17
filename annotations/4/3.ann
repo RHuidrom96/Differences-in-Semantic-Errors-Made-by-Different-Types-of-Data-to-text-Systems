@@ -1,0 +1,6 @@
+T1	OMISSION 52 65	Nurhan_Atasoy
+#1	AnnotatorNotes T1	See "citizenship" note
+T2	OMISSION 82 88	Turkey
+#2	AnnotatorNotes T2	See "citizenship" note
+T3	OMISSION 68 79	citizenship
+#3	AnnotatorNotes T3	The text says "national", but nationality does not imply citizenship.  See https://www.gov.uk/types-of-british-nationality where citizenship is only one type of nationality

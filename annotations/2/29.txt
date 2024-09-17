@@ -1,0 +1,2 @@
+Triple(s): "It's_Great_to_Be_Young_(1956_film) | starring | John_Mills", "It's_Great_to_Be_Young_(1956_film) | gross | 282838.0"
+Verbalisation: John Mills starred in the film It's Great to Be Young which has a gross of 282838.0.

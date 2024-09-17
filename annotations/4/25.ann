@@ -1,0 +1,6 @@
+T1	OMISSION 155 172	Bedford_Autodrome
+#1	AnnotatorNotes T1	Bedford Autodrome is not in the output in the context of being a city.  This looks like a mistake in the input data.
+T2	ADDITION 364 371	Bedford
+#2	AnnotatorNotes T2	See omission note
+T3	ADDITION 415 421	metres
+#3	AnnotatorNotes T3	The units were not specified

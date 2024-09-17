@@ -1,0 +1,6 @@
+T1	ADDITION 233 237	nord
+#1	AnnotatorNotes T1	I am adding this as an addition because Nord is lowercase and it is missing from the triple
+T2	OMISSION 276 292	6 September 2006
+T3	ADDITION 58 68	2006-09-06
+T4	ADDITION 243 255	was a member
+#2	AnnotatorNotes T4	This information is not present in the triple

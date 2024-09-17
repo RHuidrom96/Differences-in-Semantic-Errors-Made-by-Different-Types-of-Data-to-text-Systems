@@ -1,0 +1,2 @@
+Triple(s): 'Lady_Anne_Monson | deathDate | 1776-02-18', 'Lady_Anne_Monson | nationality | Kingdom_of_England', 'Lady_Anne_Monson | residence | India', 'Lady_Anne_Monson | spouse | George_Monson', 'Lady_Anne_Monson | professionalField | Botany'
+Verbalisation: Born in the Kingdom of England on 1776-02-18, Lady Anne Monson, who was married to George Monson, worked in Botany and resides in India.

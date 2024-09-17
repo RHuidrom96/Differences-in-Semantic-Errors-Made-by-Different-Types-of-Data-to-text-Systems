@@ -1,0 +1,2 @@
+Triple(s): 'Alan_Shepard | deathPlace | California', 'New_Hampshire | bird | Purple_finch', 'Alan_Shepard | birthPlace | New_Hampshire'
+Verbalisation: Alan Shepard, born in New Hampshire, died in California. The purple finch is a bird that is from New Hampshire.

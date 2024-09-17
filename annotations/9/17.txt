@@ -1,0 +1,2 @@
+Triple(s): 'ALCO_RS-3 | engine | V12_engine', 'ALCO_RS-3 | cylinderCount | 12', 'ALCO_RS-3 | length | 17068.8 (millimetres)'
+Verbalisation: ALCO RS 3 engine is V12 engine and is 17068.8 (millimetres) in length, has a cylinder count of 12.

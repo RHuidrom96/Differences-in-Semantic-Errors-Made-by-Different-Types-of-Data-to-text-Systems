@@ -1,0 +1,2 @@
+Triple(s): 'Lady_Anne_Monson | deathDate | 1776-02-18', 'Lady_Anne_Monson | nationality | Kingdom_of_England', 'Lady_Anne_Monson | residence | India', 'Lady_Anne_Monson | spouse | George_Monson', 'Lady_Anne_Monson | professionalField | Botany'
+Verbalisation: Lady Anne Monson, who is from the Kingdom of England, died on February 18, 1776. She lives in India. George Monson is the spouse of Lady Anne Monson, which worked in Botany.

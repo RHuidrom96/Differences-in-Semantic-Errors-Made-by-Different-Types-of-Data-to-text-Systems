@@ -1,0 +1,2 @@
+Triple(s): 'Bedford_Aerodrome | operatingOrganisation | MotorSport_Vision', 'Bedford_Aerodrome | runwayLength | 1095.0', 'Bedford_Aerodrome | icaoLocationIdentifier | EGBF'
+Verbalisation: MotorSport Vision operates Bedford Aerodrome, the ICAO location identifier of which is EGBF. The length of its runway is 1,095.

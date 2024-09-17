@@ -1,0 +1,5 @@
+T1	ADDITION 300 302	He
+T2	ADDITION 356 358	He
+T3	OMISSION 31 40	deathDate
+T4	ADDITION 280 284	born
+#1	AnnotatorNotes T4	While it is possible to be born and die on the same day, the good Lady had a spouse so we can exclude that possibility and conclude the two errors (omission and addition).

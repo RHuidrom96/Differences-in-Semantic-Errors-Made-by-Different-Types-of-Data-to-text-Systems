@@ -1,0 +1,8 @@
+T1	ADDITION 350 359	July 29th
+#1	AnnotatorNotes T1	This is not the full date specified in the input
+T2	OMISSION 177 187	1954-07-29
+#2	AnnotatorNotes T2	Only the day number is specified in the text
+T3	OMISSION 114 130	J._R._R._Tolkien
+#3	AnnotatorNotes T3	The text only states "J.R Tolkien" (misses the second R).  I almost missed this because it is an easy thing to miss.
+T4	ADDITION 260 272	J.r. tolkien
+#4	AnnotatorNotes T4	The text only states "J.R Tolkien" (misses the second R)

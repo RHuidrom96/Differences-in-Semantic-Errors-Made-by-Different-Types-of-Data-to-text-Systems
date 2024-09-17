@@ -1,0 +1,2 @@
+Triple(s): 'Mermaid_(Train_song) | genre | Pop_rock', 'Mermaid_(Train_song) | recordLabel | Columbia_Records', 'Mermaid_(Train_song) | runtime | 3.16', 'Mermaid_(Train_song) | recordLabel | Sony_Music_Entertainment'
+Verbalisation: Sony Music Entertainment and columbia Records are the record label of the musician mermaid (trainer) who is a performer of pop rock music and has a 3.16 meter performance.

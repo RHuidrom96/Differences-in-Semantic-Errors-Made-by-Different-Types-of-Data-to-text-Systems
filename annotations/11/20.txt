@@ -1,0 +1,2 @@
+Triple(s): 'Mermaid_(Train_song) | genre | Pop_rock', 'Mermaid_(Train_song) | recordLabel | Columbia_Records', 'Mermaid_(Train_song) | runtime | 3.16', 'Mermaid_(Train_song) | recordLabel | Sony_Music_Entertainment'
+Verbalisation: Mermaid (Train song) is a pop rock musician who was signed to Columbia Records, 3.16, and Sony Music Entertainment.

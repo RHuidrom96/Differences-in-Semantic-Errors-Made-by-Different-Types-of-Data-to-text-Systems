@@ -1,0 +1,4 @@
+T1	ADDITION 491 498	minutes
+#1	AnnotatorNotes T1	"minutes" is not explicitly mentioned in the triple, can be considered as an addition.
+T2	OMISSION 231 241	2006-09-06
+T3	ADDITION 444 463	September 6th, 2006

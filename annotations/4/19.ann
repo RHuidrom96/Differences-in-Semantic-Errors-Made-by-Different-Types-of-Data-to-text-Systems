@@ -1,0 +1,8 @@
+T1	OMISSION 31 41	discovered
+#1	AnnotatorNotes T1	"discovered" implies "discovered in" not "discovered is".
+T2	ADDITION 88 101	discovered is
+#2	AnnotatorNotes T2	See Omission note
+T3	OMISSION 44 54	1929-06-11
+#3	AnnotatorNotes T3	Different format
+T4	ADDITION 102 115	June 11, 1929
+#4	AnnotatorNotes T4	Different format
