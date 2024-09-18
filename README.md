@@ -10,4 +10,5 @@
   - Recruitment form.
 
 If you use any of our resources, please cite our paper:
+
 Rudali Huidrom, Anya Belz, and Michela Lorandi. 2024. [Differences in Semantic Errors Made by Different Types of Data-to-text Systems](https://aclanthology.org/2024.inlg-main.47.pdf). In Proceedings of the 17th International Natural Language Generation Conference, pages 609–621, Tokyo, Japan. Association for Computational Linguistics.
